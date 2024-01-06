@@ -62,4 +62,3 @@ pip install transformers<br />
 
 <p>python app.py<br />
 &nbsp;</p>
-
